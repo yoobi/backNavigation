@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">backNavigation</string>
+
+    <string name="move_to_next_frag">Move to next Frag</string>
+    <string name="back_to_first_frag">Back to first frag</string>
+</resources>
